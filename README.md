@@ -1,10 +1,12 @@
 # Simple-Calculator
-simple calculator for android 
+
+
+Simple calculator for android 
 
 
 # İngilizce 
-![ing](LearninV1/image/Screenshot_20220527_135148.png)
+![ing](LearninV1/image/en.png)
 
 
 # Türkçe 
-![tr](LearninV1/image/Screenshot_20220527_135326.png)
+![tr](LearninV1/image/tr.png)
